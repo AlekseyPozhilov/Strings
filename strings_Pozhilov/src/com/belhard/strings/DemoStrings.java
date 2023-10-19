@@ -10,9 +10,9 @@ public class DemoStrings {
             "This   is      text     with       different      spaces",
             "aaaaaaaaaAAA",
             "level",
-            "",
-            "",
-            "",
-            ""
+            "Hello World!",
+            "longest word in the text",
+            "Hello World",
+            "Hello World. Hello World! Hello World?"
     };
 }
